@@ -118,9 +118,9 @@ body *, .userPopout-3XzG_A * {
 }
 
 .wordmarkWindows-2dq6rw::after {
-  content: '';
+  content: 'Discordo';
   display: inline-block;
-  -webkit-mask-image: url("https://raw.githubusercontent.com/GavinGoGaming/themes/main/extentions/Fallout4TerminalTheme-Gavinsway/title.svg");
+/*   -webkit-mask-image: url("https://raw.githubusercontent.com/GavinGoGaming/themes/main/extentions/Fallout4TerminalTheme-Gavinsway/title.svg"); */
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
